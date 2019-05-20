@@ -683,5 +683,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 946475b49fab4bd4bbbd52b06fc08794, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minBootDelay: 2
-  forceFullScreen: 1
+  minBootDelay: 0
+  forceFullScreen: 0

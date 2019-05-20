@@ -7,8 +7,8 @@ using UnityEngine.SceneManagement;
 public class BootController : MonoBehaviour
 {
     [Header("Boot Options")]
-    public float minBootDelay = 2f;
-    public bool forceFullScreen = true;
+    public float minBootDelay = 0f;
+    public bool forceFullScreen = false;
     //public bool resetPlayerPrefs = false;
 
     //bool userIsSetup = false;
